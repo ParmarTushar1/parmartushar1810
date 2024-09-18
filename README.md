@@ -71,10 +71,3 @@
 </p>
 
 ---
-
-<h3 align="center">Animated React Native GIF</h3>
-
-<p align="center">
-  <img src="https://i.makeagif.com/media/9-18-2024/imisbt.gif" alt="React Native Animation" width="500" height="300"/>
-</p>
-
