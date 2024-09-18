@@ -76,9 +76,9 @@
 
 ---
 
-<h3 align="center">Animated Image</h3>
+<h3 align="center">Animated React Native GIF</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/motionity/motionity/main/assets/logo.svg" alt="React Native Animation" width="250" height="250"/>
+  <img src="https://i.makeagif.com/media/9-18-2024/imisbt.gif" alt="React Native Animation" width="500" height="300"/>
 </p>
 
