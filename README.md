@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **React Native, JavaScript, C++, Python**
 
-- 📫 How to reach me **tusharparmar1810@example.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
