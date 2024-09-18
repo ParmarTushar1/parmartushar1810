@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tushar parmar</h1>
 <h3 align="center">Software Developer Engineer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parmartushar1810&label=Profile%20views&color=0e75b6&style=flat" alt="parmartushar1810" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **React native,javaScript**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tusharparmar1810/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tusharparmar1810/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
