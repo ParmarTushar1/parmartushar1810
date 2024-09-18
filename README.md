@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tushar parmar</h1>
 <h3 align="center">Software Developer Engineer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl="https://miro.medium.com/v2/resize:fit:1280/1*inhNfzUmVhDjD3GzbnB56A.gif&tbnid=CXk7kZCsOkSZAM&vet=1&imgrefurl=https://medium.com/tulisankhusni/berkenalan-dengan-react-js-3e69920cb870&docid=2c0pjWP62QNLuM&w=640&h=640&itg=1&hl=en-US&source=sh/x/im/m6/4&kgs=d537c49057effd4c&shem=abme,trie")
+(img align="https://www.google.com/imgres?imgurl=https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif&tbnid=9JwM_99z1X_zbM&vet=1&imgrefurl=https://revelry.co/insights/design/ux-design-react-native/&docid=PMikPStkzTJ_oM&w=1200&h=628&source=sh/x/im/m5/1&kgs=89ce70073b778106&shem=abme,trie")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parmartushar1810&label=Profile%20views&color=0e75b6&style=flat" alt="parmartushar1810" /> </p>
 
