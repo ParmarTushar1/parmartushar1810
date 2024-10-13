@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #fffff;">Hi 👋, I'm Tushar Parmar</h1>
 <h3 align="center" style="color: #008080;">Software Development Engineer from India</h3>
 
-<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="coding gif">
+<!-- <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="coding gif"> -->
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=parmartushar1810&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
